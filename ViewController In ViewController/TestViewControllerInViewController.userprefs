@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A18C391B-3ED7-4CD0-8627-4E8791FC4780}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppDelegate.cs">
+    <Files>
+      <File FileName="AppDelegate.cs" Line="23" Column="3" />
+      <File FileName="ViewController.cs" Line="25" Column="27" />
+      <File FileName="Main.cs" Line="14" Column="1" />
+      <File FileName="FilterViewController.cs" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestViewControllerInViewController PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
